@@ -9,7 +9,7 @@ My current setup is configured exactly like this.
 
 ### Resources
 
-https://github.com/xCuri0/ReBarUEFI
+https://github.com/xCuri0/ReBarUEFI<br>
 https://github.com/cjtim/NVMe_support_on_old_motherboard/tree/master
 
 If you want to mod the BIOS yourself,<br>
