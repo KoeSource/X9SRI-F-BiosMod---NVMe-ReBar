@@ -68,3 +68,4 @@ I have a small 80mm fan pointing at it.
 
 ### Image
 
+![Rebar Enabled on X9SRI-F](https://raw.githubusercontent.com/KoeSource/X9SRI-F-BiosMod---NVMe-ReBar/refs/heads/master/images/x9srif_rebarOn.jpg)
